@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+.venv/
+*.egg-info/
+dist/
+build/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Environment
+.env
+.env.local
+.env.*.local
+
+# OS
+.DS_Store
+Thumbs.db
+.git-credentials
+
+# Chrome and Browser
+AppData/
+Chrome User Data/
+.copilot/
+
+# System files
+Contacts/
+Downloads/
+Favorites/
+Links/
+OneDrive/
+Saved Games/
+Searches/
+NTUSER.DAT*
+ntuser.*
+Application Data/
+Local Settings/
+My Documents/
+My Music/
+My Pictures/
+My Videos/
+NetHood/
+PrintHood/
+Recent/
+SendTo/
+Start Menu/
+Templates/
