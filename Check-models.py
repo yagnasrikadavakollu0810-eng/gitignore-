@@ -12,4 +12,4 @@ models = client.models.list()
 
 print("Models available for your key:")
 #Access the 'data' attribute to iterate through the model objects for model in models.data:
-  prin(f" - {model.id}")
+  print(f" - {model.id}")
